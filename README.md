@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0528-random-pick-with-weight) |
+| [1146-snapshot-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1146-snapshot-array) |
 | [1288-remove-covered-intervals](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1288-remove-covered-intervals) |
 ## Math
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0528-random-pick-with-weight) |
+| [1146-snapshot-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1146-snapshot-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -28,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1288-remove-covered-intervals) |
+## Hash Table
+|  |
+| ------- |
+| [1146-snapshot-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1146-snapshot-array) |
+## Design
+|  |
+| ------- |
+| [1146-snapshot-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1146-snapshot-array) |
 <!---LeetCode Topics End-->
