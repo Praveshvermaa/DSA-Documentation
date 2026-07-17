@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-snapshot-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1146-snapshot-array) |
 | [1288-remove-covered-intervals](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1331-rank-transform-of-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3028-ant-on-the-boundary](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3028-ant-on-the-boundary) |
 | [3152-special-array-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3152-special-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1146-snapshot-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1146-snapshot-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1331-rank-transform-of-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Design
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
