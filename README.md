@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3028-ant-on-the-boundary](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3028-ant-on-the-boundary) |
 | [3152-special-array-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3152-special-array-ii) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0528-random-pick-with-weight) |
 | [3028-ant-on-the-boundary](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3028-ant-on-the-boundary) |
 | [3152-special-array-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3152-special-array-ii) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Randomized
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1331-rank-transform-of-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Design
 |  |
