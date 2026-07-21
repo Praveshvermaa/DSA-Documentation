@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-snapshot-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1146-snapshot-array) |
 | [1288-remove-covered-intervals](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1331-rank-transform-of-an-array) |
+| [2568-minimum-impossible-or](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2568-minimum-impossible-or) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3028-ant-on-the-boundary](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3028-ant-on-the-boundary) |
 | [3152-special-array-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3152-special-array-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2568-minimum-impossible-or](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2568-minimum-impossible-or) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3028-ant-on-the-boundary](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3028-ant-on-the-boundary) |
+## Brainteaser
+|  |
+| ------- |
+| [2568-minimum-impossible-or](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2568-minimum-impossible-or) |
 <!---LeetCode Topics End-->
