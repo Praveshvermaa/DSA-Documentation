@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-snapshot-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1146-snapshot-array) |
 | [1288-remove-covered-intervals](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1331-rank-transform-of-an-array) |
+| [1765-map-of-highest-peak](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1765-map-of-highest-peak) |
 | [2353-design-a-food-rating-system](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2353-design-a-food-rating-system) |
 | [2568-minimum-impossible-or](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2568-minimum-impossible-or) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1765-map-of-highest-peak](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1765-map-of-highest-peak) |
 | [2685-count-the-number-of-complete-components](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2353-design-a-food-rating-system](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2353-design-a-food-rating-system) |
+## Matrix
+|  |
+| ------- |
+| [1765-map-of-highest-peak](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1765-map-of-highest-peak) |
 <!---LeetCode Topics End-->
