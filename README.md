@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-snapshot-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1146-snapshot-array) |
 | [1288-remove-covered-intervals](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1331-rank-transform-of-an-array) |
+| [1686-stone-game-vi](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1686-stone-game-vi) |
 | [1765-map-of-highest-peak](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1765-map-of-highest-peak) |
 | [2353-design-a-food-rating-system](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2353-design-a-food-rating-system) |
 | [2568-minimum-impossible-or](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2568-minimum-impossible-or) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0528-random-pick-with-weight) |
+| [1686-stone-game-vi](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1686-stone-game-vi) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1288-remove-covered-intervals](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1331-rank-transform-of-an-array) |
+| [1686-stone-game-vi](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1686-stone-game-vi) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1686-stone-game-vi](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1686-stone-game-vi) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1686-stone-game-vi](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1686-stone-game-vi) |
 | [2353-design-a-food-rating-system](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2353-design-a-food-rating-system) |
 ## Ordered Set
 |  |
@@ -136,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1765-map-of-highest-peak](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1765-map-of-highest-peak) |
+## Game Theory
+|  |
+| ------- |
+| [1686-stone-game-vi](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1686-stone-game-vi) |
 <!---LeetCode Topics End-->
