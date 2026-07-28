@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1331-rank-transform-of-an-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1686-stone-game-vi](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1686-stone-game-vi) |
+| [1701-average-waiting-time](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1701-average-waiting-time) |
 | [1765-map-of-highest-peak](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1765-map-of-highest-peak) |
 | [2353-design-a-food-rating-system](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2353-design-a-food-rating-system) |
 | [2568-minimum-impossible-or](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2568-minimum-impossible-or) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1701-average-waiting-time](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1701-average-waiting-time) |
 | [3028-ant-on-the-boundary](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3028-ant-on-the-boundary) |
 ## Brainteaser
 |  |
