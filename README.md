@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0528-random-pick-with-weight](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0528-random-pick-with-weight) |
+| [0877-stone-game](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0877-stone-game) |
 | [1146-snapshot-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1146-snapshot-array) |
 | [1288-remove-covered-intervals](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1331-rank-transform-of-an-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0528-random-pick-with-weight) |
+| [0877-stone-game](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0877-stone-game) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1686-stone-game-vi](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1686-stone-game-vi) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0877-stone-game) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0877-stone-game) |
 | [1686-stone-game-vi](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1686-stone-game-vi) |
 ## Bucket Sort
 |  |
