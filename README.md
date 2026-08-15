@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0014-longest-common-prefix) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0528-random-pick-with-weight](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0528-random-pick-with-weight) |
 | [0877-stone-game](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0877-stone-game) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0014-longest-common-prefix) |
 | [0451-sort-characters-by-frequency](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0451-sort-characters-by-frequency) |
 | [2353-design-a-food-rating-system](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2353-design-a-food-rating-system) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0877-stone-game) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
