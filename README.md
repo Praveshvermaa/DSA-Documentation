@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0007-reverse-integer) |
 | [0528-random-pick-with-weight](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0528-random-pick-with-weight) |
 | [0877-stone-game](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0877-stone-game) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
