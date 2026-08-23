@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2568-minimum-impossible-or](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2568-minimum-impossible-or) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3028-ant-on-the-boundary](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3028-ant-on-the-boundary) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3152-special-array-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3152-special-array-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1701-average-waiting-time](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1701-average-waiting-time) |
 | [3028-ant-on-the-boundary](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3028-ant-on-the-boundary) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Brainteaser
 |  |
 | ------- |
