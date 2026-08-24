@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0036-valid-sudoku) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0528-random-pick-with-weight](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0528-random-pick-with-weight) |
 | [0877-stone-game](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0877-stone-game) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0036-valid-sudoku) |
 | [0451-sort-characters-by-frequency](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0451-sort-characters-by-frequency) |
 | [1146-snapshot-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1146-snapshot-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1331-rank-transform-of-an-array) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0036-valid-sudoku) |
 | [1765-map-of-highest-peak](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1765-map-of-highest-peak) |
 ## Game Theory
 |  |
