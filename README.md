@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0036-valid-sudoku) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0528-random-pick-with-weight](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0528-random-pick-with-weight) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0016-3sum-closest) |
 | [0451-sort-characters-by-frequency](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1288-remove-covered-intervals](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1288-remove-covered-intervals) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0016-3sum-closest) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
