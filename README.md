@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1686-stone-game-vi) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0018-4sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1686-stone-game-vi](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1686-stone-game-vi) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Bit Manipulation
 |  |
 | ------- |
