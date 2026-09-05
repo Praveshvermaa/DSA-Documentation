@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3904-smallest-stable-index-ii) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Math
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-special-array-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3152-special-array-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3904-smallest-stable-index-ii) |
 ## Randomized
 |  |
 | ------- |
