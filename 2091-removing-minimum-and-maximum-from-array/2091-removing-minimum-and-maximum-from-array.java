@@ -17,15 +17,15 @@ class Solution {
             }
         }
        
-        if(macind>=hf&&minind>=hf){
-            return n-Math.min(macind,minind);
-        }
-        if(n%2==0&&macind<hf&&minind<hf){
-            return Math.max(macind,minind)+1;
-        }
-        if(n%2!=0&&macind<=hf&&minind<=hf){
-            return Math.max(macind,minind)+1;
-        }
+        // if(macind>=hf&&minind>=hf){
+        //     return n-Math.min(macind,minind);
+        // }
+        // if(n%2==0&&macind<hf&&minind<hf){
+        //     return Math.max(macind,minind)+1;
+        // }
+        // if(n%2!=0&&macind<=hf&&minind<=hf){
+        //     return Math.max(macind,minind)+1;
+        // }
         int diff = Math.abs(macind-minind);
         int temp1 = Math.min(minind+1,n-minind);
          int temp3 =  Math.min(macind+1,n-macind);
