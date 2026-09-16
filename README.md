@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1686-stone-game-vi) |
 | [1701-average-waiting-time](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1701-average-waiting-time) |
 | [1765-map-of-highest-peak](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1765-map-of-highest-peak) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2353-design-a-food-rating-system](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2353-design-a-food-rating-system) |
 | [2568-minimum-impossible-or](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2568-minimum-impossible-or) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1686-stone-game-vi](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/1686-stone-game-vi) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Praveshvermaa/DSA-Documentation/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Bit Manipulation
